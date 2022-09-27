@@ -6,4 +6,14 @@ body {
 .section-one {
     color: white;
     text-align: center;
+    padding: 3rem;
+}
+
+.head-caption {
+    text-transform: uppercase;
+    letter-spacing: 2rem;
+}
+
+.team-title {
+    font-size: 2.5rem;
 }
