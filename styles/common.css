@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(29, 29, 44);
+    font-family: 'Roboto', sans-serif;
+}
+
+.section-one {
+    color: white;
+    text-align: center;
+}
